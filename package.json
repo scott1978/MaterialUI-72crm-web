@@ -1,8 +1,8 @@
 {
-  "name": "5kcrm",
+  "name": "ucrm",
   "version": "11.0.0",
   "description": "",
-  "author": "5kcrm <service@5kcrm.com>",
+  "author": "admin<admin@szutek.com>",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
@@ -22,7 +22,7 @@
     "@fullcalendar/timeline": "^4.3.0",
     "@fullcalendar/vue": "^4.3.1",
     "@tinymce/tinymce-vue": "^3.2.0",
-    "axios": "0.18.0",
+    "axios": "1.4.0",
     "babel-polyfill": "^6.26.0",
     "clipboard": "^2.0.4",
     "echarts": "^4.3.0",

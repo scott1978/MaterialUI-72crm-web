@@ -17,13 +17,6 @@
           :is="activeCom"/>
       </div>
     </div>
-    <footer class="v-footer">
-      <div class="container">
-        <div class="body-1 font-weight-light pt-6 pt-md-0 text-center"> © 2022, Use Material Theme Made By <span
-          style="color: mediumvioletred;">❤</span> by DT27.
-        </div>
-      </div>
-    </footer>
   </div>
 </template>
 
@@ -56,7 +49,7 @@ export default {
 .login-wrapper {
   position: relative;
   width: 100%;
-  height: 100%;
+  //height: 100%;
   display: flex;
   flex-direction: column;
 
